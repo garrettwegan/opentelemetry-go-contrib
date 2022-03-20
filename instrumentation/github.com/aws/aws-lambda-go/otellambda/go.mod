@@ -8,6 +8,6 @@ require (
 	github.com/aws/aws-lambda-go v1.24.0
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/contrib v0.22.0
-	go.opentelemetry.io/otel v1.0.0-RC2
-	go.opentelemetry.io/otel/trace v1.0.0-RC2
+	go.opentelemetry.io/otel v1.5.0
+	go.opentelemetry.io/otel/trace v1.5.0
 )
